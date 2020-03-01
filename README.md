@@ -16,7 +16,7 @@
 ### Architecture
 <img src="Images/2.png">
 
-###Now This whole thing we build in just 30hrs
+##Now This whole thing we build in just 30hrs
 
 # Future Idea
 <img src="Images/3.png">
